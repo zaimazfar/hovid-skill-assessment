@@ -16,6 +16,11 @@ This is a web-based assessment system built using ASP.NET (VB.NET). The project 
 4) Update connection string in Web.config
 5) Run project using IIS Express
 
+**How to Restore Database**
+1) Open SQL Server Management Studio (SSMS)
+2) Open the script file: /Database/hovid-skill-assessment.sql
+3) Run the script in SQL Server
+
 ## 📸 Application Screenshot
 **Register Page**
 <img width="1908" height="362" alt="image" src="https://github.com/user-attachments/assets/98ba4fd9-654e-47e4-9afe-a6b3ac6b7f3d" />
